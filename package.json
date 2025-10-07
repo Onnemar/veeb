@@ -25,7 +25,10 @@
   },
   "homepage": "https://github.com/Onnemar/veeb#readme",
   "dependencies": {
+    "12": "^1.0.2",
     "ejs": "^3.1.10",
-    "express": "^5.1.0"
+    "express": "^5.1.0",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.15.1"
   }
 }
